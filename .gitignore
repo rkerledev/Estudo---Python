@@ -1,0 +1,4 @@
+*.db
+tarefas.json
+__pycache__/
+.venv/
